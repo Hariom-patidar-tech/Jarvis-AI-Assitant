@@ -1,21 +1,24 @@
-🤖 JARVIS AI ASSISTANT
+JARVIS AI ASSISTANT
 ---
-🚀 Overview
+
+Overview
+---
 
 JARVIS AI Assistant is a smart, voice-enabled personal assistant that can understand user commands, process them intelligently, and perform real-time tasks like opening applications, searching the web, and automating workflows.
 
 It combines AI, automation, and voice interaction to deliver a seamless user experience.
-
-✨ Features
-🎙️ Voice Command Recognition
-🧠 AI-Based Natural Response System
-🌐 Smart Web Search & Automation
-💻 System Control (Apps, Files, Tasks)
-🔊 Text-to-Speech Output
-⚡ Fast & Lightweight Execution
-🔐 Secure API Key Handling
-🧩 Modular & Scalable Code Structure
-🎯 Use Cases
+---
+Features
+ Voice Command Recognition
+ AI-Based Natural Response System
+ Smart Web Search & Automation
+ System Control (Apps, Files, Tasks)
+ Text-to-Speech Output
+ Fast & Lightweight Execution
+ Secure API Key Handling
+ Modular & Scalable Code Structure
+ ---
+ Use Cases
 Open applications using voice
 Search anything instantly
 Automate repetitive tasks
